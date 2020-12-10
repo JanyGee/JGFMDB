@@ -1,0 +1,22 @@
+PODS:
+  - SQLite.swift (0.11.6):
+    - SQLite.swift/standard (= 0.11.6)
+  - SQLite.swift/standard (0.11.6)
+  - YTKKeyValueStore_Swift (0.4.2):
+    - SQLite.swift (~> 0.11.3)
+
+DEPENDENCIES:
+  - YTKKeyValueStore_Swift
+
+SPEC REPOS:
+  trunk:
+    - SQLite.swift
+    - YTKKeyValueStore_Swift
+
+SPEC CHECKSUMS:
+  SQLite.swift: 46d890be8601964454bd3392527f863d1b802d45
+  YTKKeyValueStore_Swift: ba941662ca0c2a99727df295d069df23ce6d94bc
+
+PODFILE CHECKSUM: 6c5816c7164bbba16c308e613e24b42a916038c5
+
+COCOAPODS: 1.9.3

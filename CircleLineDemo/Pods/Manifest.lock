@@ -1,0 +1,20 @@
+PODS:
+  - CRBoxInputView (1.2.1):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CRBoxInputView (= 1.2.1)
+
+SPEC REPOS:
+  trunk:
+    - CRBoxInputView
+    - Masonry
+
+SPEC CHECKSUMS:
+  CRBoxInputView: d73a630e5326ee70487b4a56d09daebf915d82fd
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: c4b8e1aa19a6df3abbb2237f6ec1a6f93cd56859
+
+COCOAPODS: 1.9.3

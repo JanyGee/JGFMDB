@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ChartViewDemo/Pods-ChartViewDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework
+${BUILT_PRODUCTS_DIR}/YTKKeyValueStore_Swift/YTKKeyValueStore.framework
